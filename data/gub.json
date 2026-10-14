@@ -1,0 +1,538 @@
+{
+ "title": "Event Agent guide",
+ "updated": "2026-10-14",
+ "entries": [
+  {
+   "id": "high-ticket-mastermind",
+   "kind": "playbook",
+   "title": "High-ticket mastermind preview",
+   "summary": "A free or low-cost doorway into an expensive membership group. The event is real, and so is the price ladder behind it.",
+   "body": [
+    "The invitation offers something free: an info kit, a recording, a seat at an annual event that is 'open to non-members once a year.' The free item is the top of a ladder. Above it usually sit a paid event ticket, a yearly membership, and an inner circle priced higher still.",
+    "The pitch leans on access. Famous speakers, photos with celebrities, and testimonials from members do the persuading. 'Apply to attend' and 'sold out' language makes the next step feel exclusive, which is itself a sales tool: people value what they had to qualify for.",
+    "None of this makes the event fake. Many of these groups deliver real connections and real talks. The thing to know going in is that the free step exists to collect your details and start a conversation about the paid steps."
+   ],
+   "tags": [
+    "mastermind",
+    "membership",
+    "apply to attend",
+    "info kit",
+    "celebrity speakers",
+    "upsell",
+    "sold out",
+    "networking"
+   ],
+   "details": {
+    "Pressure level": "High",
+    "The real ask": "A paid event ticket, then a yearly membership",
+    "What they collect": "Name, email, phone number, often business revenue on the application",
+    "Follow-up to expect": "Several marketing emails a week, plus a likely call or text about the application",
+    "Before you sign up": "Find the full price ladder and the refund policy before giving a phone number",
+    "Example": "Genius Network Annual Event 2026 (see Real examples)"
+   }
+  },
+  {
+   "id": "enterprise-product-launch",
+   "kind": "playbook",
+   "title": "Free enterprise product launch",
+   "summary": "A polished virtual event from a software company. The talks are the demo, and the follow-up is driven by lead scoring.",
+   "body": [
+    "Large software companies run free global events to announce products and teach people to use them. There is rarely an on-stage pitch. Instead, nearly every session is a live demo, and many are 'customer zero' stories where the company shows its own teams using the product.",
+    "The persuasion happens around the content. Big-name guests add credibility. Badges, session goals and giveaways keep you watching longer. Referral programs turn attendees into recruiters. Behind the scenes, marketing software records what you register for and attend, and that activity feeds a lead score.",
+    "If your registration looks like a company buyer (work email, senior title, a large employer, product-heavy sessions), a sales rep may follow up. A personal email address and general-interest sessions usually mean marketing emails only."
+   ],
+   "tags": [
+    "webinar",
+    "virtual event",
+    "software",
+    "product launch",
+    "lead scoring",
+    "referral",
+    "sweepstakes",
+    "free",
+    "b2b",
+    "conference"
+   ],
+   "details": {
+    "Pressure level": "Low",
+    "The real ask": "Try or buy the company's software, usually through your employer",
+    "What they collect": "Email, job title, company, which sessions you join; sometimes shared with event partners",
+    "Follow-up to expect": "Marketing emails; a sales rep email or LinkedIn message if you look like a buyer",
+    "Before you sign up": "Check the consent box wording for partner sharing and skip the referral program if you don't want friends added to lists",
+    "Example": "Snowflake Expedition 2026 (see Real examples)"
+   }
+  },
+  {
+   "id": "webinar-course-upsell",
+   "kind": "playbook",
+   "title": "Free webinar with a course pitch",
+   "summary": "A free online class that teaches part of a method, then sells the rest as a course, coaching program or bundle.",
+   "body": [
+    "The format is predictable once you have seen it. The host tells a personal story, teaches a few genuinely useful ideas, and then reveals that the full system lives inside a paid program. The pitch usually takes the last third of the session.",
+    "Expect a 'value stack' that adds up bonuses to a large 'total value' before revealing a much lower price, a countdown timer, a fast-action bonus for buying during the live session, and a replay that expires in 24 to 72 hours.",
+    "Follow-up is mostly email, often daily for a week after the webinar, ending with a 'cart closes tonight' message. Some programs add sales calls for higher-priced tiers."
+   ],
+   "tags": [
+    "webinar",
+    "masterclass",
+    "course",
+    "coaching",
+    "value stack",
+    "countdown",
+    "replay",
+    "bonus",
+    "online"
+   ],
+   "details": {
+    "Pressure level": "Medium",
+    "The real ask": "A course, coaching program or membership, often $500 to several thousand dollars",
+    "What they collect": "Email, sometimes phone for text reminders",
+    "Follow-up to expect": "Daily emails for about a week, deadline reminders, possible sales calls for premium tiers",
+    "Before you sign up": "Decide your budget before the session starts and ignore the countdown; the same offer often returns",
+    "Example": "Common across online business, fitness and investing education"
+   }
+  },
+  {
+   "id": "seminar-in-room-close",
+   "kind": "playbook",
+   "title": "Free seminar with an in-room sales close",
+   "summary": "An in-person workshop, often in a hotel ballroom, that ends with a push to buy an advanced program on the spot.",
+   "body": [
+    "The seminar is free or cheap, and the room is full. The speaker builds energy through the day, then announces a special price for people who sign up before leaving. Staff walk the aisles with order forms, and early buyers may be applauded to create momentum.",
+    "Watch for the classic signals: a price that is only good 'today,' a limited number of spots, and pressure to put the purchase on a credit card or open new credit to afford it.",
+    "In the United States, the FTC's Cooling-Off Rule gives you three days to cancel many sales made at a seller's temporary location, such as a hotel or convention center, when the sale is $130 or more. The seller must tell you about that right at the time of sale. Check the current rule and any state rules before relying on it."
+   ],
+   "tags": [
+    "seminar",
+    "workshop",
+    "hotel",
+    "in person",
+    "real estate",
+    "investing",
+    "special price",
+    "today only",
+    "cooling-off"
+   ],
+   "details": {
+    "Pressure level": "High",
+    "The real ask": "An advanced training package, often several thousand dollars or more",
+    "What they collect": "Name, phone, email, sometimes income or credit details on order forms",
+    "Follow-up to expect": "Calls and texts before the event to confirm you're coming, then sales follow-up if you didn't buy",
+    "Before you sign up": "Leave cards at home or set a hard limit, and know the 3-day cancellation rule",
+    "Example": "Real estate, trading and wealth-building seminar tours"
+   }
+  },
+  {
+   "id": "gifted-sales-presentation",
+   "kind": "playbook",
+   "title": "Free gift, meal or trip with a sales presentation",
+   "summary": "You receive a free dinner, hotel stay or gift card in exchange for sitting through a presentation. The gift is the bait for a long, structured pitch.",
+   "body": [
+    "Free-meal investment seminars, timeshare previews and vacation-club tours all trade a gift for your time. The presentation is longer than advertised, the gift is handed out at the end, and a closer often joins after the first salesperson to lower the price or add perks.",
+    "Securities regulators have long warned older adults about 'free lunch' investment seminars, where the meal leads into a pitch for annuities or other products. Timeshare and vacation-club offers commonly require attending a set-length tour with a spouse or partner to earn the gift.",
+    "Read the gift's fine print before you go: minimum time at the presentation, income or age requirements, and whether both partners must attend."
+   ],
+   "tags": [
+    "free dinner",
+    "free lunch",
+    "timeshare",
+    "vacation",
+    "gift card",
+    "annuity",
+    "investment seminar",
+    "tour",
+    "retirement"
+   ],
+   "details": {
+    "Pressure level": "High",
+    "The real ask": "A timeshare, annuity, insurance policy or other long-term contract",
+    "What they collect": "Name, phone, household income, age, marital status",
+    "Follow-up to expect": "Phone calls to confirm attendance, then repeat offers if you decline",
+    "Before you sign up": "Agree with your partner on a firm 'no' before you go, and never sign anything the same day",
+    "Example": "Restaurant investment seminars and resort vacation previews"
+   }
+  },
+  {
+   "id": "business-opportunity-meeting",
+   "kind": "playbook",
+   "title": "Business opportunity or recruiting meeting",
+   "summary": "An event framed as a chance to earn income, where the real goal is getting you to join and recruit others.",
+   "body": [
+    "These meetings are often vague in the invitation: 'a business idea I think you'd be great at,' 'a launch party,' or a call with a 'mentor.' The host is frequently a friend or acquaintance, which makes saying no feel personal.",
+    "The pitch centres on lifestyle and income stories, with a starter kit or membership fee to join. Money depends heavily on recruiting others rather than selling to outside customers. The FTC publishes guidance on telling multi-level marketing apart from illegal pyramid schemes, and it is worth reading before paying any joining fee.",
+    "Ask directly what you would pay to start, what you must buy each month to stay active, and what the company's published income disclosure shows for typical participants."
+   ],
+   "tags": [
+    "mlm",
+    "network marketing",
+    "recruiting",
+    "side hustle",
+    "income",
+    "opportunity",
+    "starter kit",
+    "pyramid",
+    "friend invite"
+   ],
+   "details": {
+    "Pressure level": "High",
+    "The real ask": "A joining fee or starter kit, ongoing purchases, and recruiting others",
+    "What they collect": "Phone number and social contacts, often through the friend who invited you",
+    "Follow-up to expect": "Personal messages from the person who invited you and their 'upline'",
+    "Before you sign up": "Ask for the income disclosure statement and the monthly purchase requirement in writing",
+    "Example": "Product parties, 'mentor' calls and opportunity nights"
+   }
+  },
+  {
+   "id": "paid-industry-conference",
+   "kind": "playbook",
+   "title": "Paid industry conference or trade show",
+   "summary": "You pay for a ticket and the content is the product, but sponsors pay to reach you, so your badge is part of the deal.",
+   "body": [
+    "Industry conferences make money from tickets and sponsors. Sponsors pay for booths, sessions and attendee access. When you let a booth scan your badge or join a sponsored session, your contact details usually go to that sponsor.",
+    "Pressure inside the event is low. The follow-up is where volume arrives: emails from every booth that scanned you and invitations to the next year's event, often with early-bird deadlines.",
+    "Registration forms may include a consent line for sharing with sponsors or partners. Read it, and decline badge scans at booths you don't care about."
+   ],
+   "tags": [
+    "conference",
+    "trade show",
+    "expo",
+    "badge",
+    "sponsor",
+    "booth",
+    "ticket",
+    "early bird",
+    "industry"
+   ],
+   "details": {
+    "Pressure level": "Low",
+    "The real ask": "Next year's ticket, plus sponsors' products",
+    "What they collect": "Name, title, company, email, and every badge scan",
+    "Follow-up to expect": "Sponsor emails and early-bird offers for the next event",
+    "Before you sign up": "Check the sponsor-sharing consent and only let booths you care about scan your badge",
+    "Example": "Industry expos and professional association conferences"
+   }
+  },
+  {
+   "id": "application-only-program",
+   "kind": "playbook",
+   "title": "Apply-to-join or invitation-only program",
+   "summary": "An application that looks like a selection process but often works as a sales qualification step before a call.",
+   "body": [
+    "'Apply to attend,' 'by invitation only' and 'we only accept a few people' make the offer feel exclusive. In many programs the application is how the sales team decides who to call and how much to pitch. Questions about revenue, budget or 'how much are you willing to invest' are the giveaway.",
+    "After you apply, expect a 'strategy call' or 'enrollment call' with someone whose job is closing. The price is often revealed only on that call.",
+    "Genuine selective programs exist too: fellowships, accelerators and competitive grants. The difference is whether you pay them, and whether the price is published before you apply."
+   ],
+   "tags": [
+    "application",
+    "apply",
+    "invitation only",
+    "exclusive",
+    "strategy call",
+    "enrollment",
+    "qualification",
+    "accelerator",
+    "by invitation"
+   ],
+   "details": {
+    "Pressure level": "Medium",
+    "The real ask": "Whatever the enrollment call is set up to sell, often priced only on the call",
+    "What they collect": "Revenue, budget, goals, phone number",
+    "Follow-up to expect": "A booked sales call, then reminder texts and emails",
+    "Before you sign up": "Ask for the price in writing before booking any call",
+    "Example": "Coaching programs, masterminds and some paid 'accelerators'"
+   }
+  },
+  {
+   "id": "community-meetup",
+   "kind": "playbook",
+   "title": "Community, nonprofit or hobby meetup",
+   "summary": "A low-pressure gathering where the main asks are to come back, volunteer or donate.",
+   "body": [
+    "Local meetups, user groups, faith or civic events, and nonprofit open houses usually have no product to sell. The asks are softer: join the mailing list, volunteer, donate, or become a member.",
+    "Some meetups are sponsored by a company that wants a list of attendees, so a short sponsor talk or a sign-up sheet may appear. That is normal and easy to decline.",
+    "If a 'community' event turns into a pitch for an investment, a business opportunity or a paid program, treat it under that playbook instead."
+   ],
+   "tags": [
+    "meetup",
+    "community",
+    "nonprofit",
+    "charity",
+    "volunteer",
+    "donation",
+    "club",
+    "local",
+    "user group"
+   ],
+   "details": {
+    "Pressure level": "Low",
+    "The real ask": "Come back, volunteer, donate or join",
+    "What they collect": "Name and email for a mailing list",
+    "Follow-up to expect": "A newsletter and future event invites",
+    "Before you sign up": "Use the unsubscribe link if the newsletter becomes too frequent",
+    "Example": "Local tech meetups, charity open houses, hobby clubs"
+   }
+  },
+  {
+   "id": "reading-the-signup-form",
+   "kind": "field-note",
+   "title": "Reading a signup form like a salesperson",
+   "summary": "Every field on a form tells you how they plan to follow up. The phone field matters most.",
+   "body": [
+    "Email only usually means email marketing. A phone number field means calls or texts are part of the plan. Company name, job title and company size help a sales team score you as a buyer. Revenue, budget or 'investment level' questions mean the form is qualifying you for a sales conversation.",
+    "Look for consent lines under the submit button. Phrases like 'event partners,' 'sponsors' or 'selected third parties' mean your details may be shared beyond the host.",
+    "Check where the form lives. An ad can lead to a separate landing-page domain. If you want to be sure who receives your details, start from the organizer's main website instead."
+   ],
+   "tags": [
+    "form",
+    "phone number",
+    "email",
+    "consent",
+    "partners",
+    "sponsors",
+    "landing page",
+    "data"
+   ],
+   "details": {
+    "Field that matters most": "Phone number",
+    "Words to look for": "Partners, sponsors, third parties, affiliates",
+    "Quick check": "Does the form's website match the organizer's main domain?"
+   }
+  },
+  {
+   "id": "scarcity-and-urgency",
+   "kind": "field-note",
+   "title": "Scarcity, deadlines and 'sold out' signals",
+   "summary": "Limited seats, countdowns and sold-out badges push faster decisions. Some are real, many are marketing.",
+   "body": [
+    "Common forms: 'only 50 seats,' 'price goes up at midnight,' 'sold out, join the waitlist,' 'reserve your spot by Friday,' and replays that expire. They work because people fear missing out more than they enjoy gaining.",
+    "A real limit is usually specific and boring: a venue capacity, a published registration close date. A marketing limit tends to reset, repeat or never be explained.",
+    "A sold-out event that still collects leads is building a list for the next offer. That is fine to know before you hand over your number."
+   ],
+   "tags": [
+    "urgency",
+    "scarcity",
+    "sold out",
+    "deadline",
+    "countdown",
+    "waitlist",
+    "limited",
+    "fomo"
+   ],
+   "details": {
+    "Real limit looks like": "A venue capacity or a published close date",
+    "Marketing limit looks like": "Timers that reset or deadlines that return",
+    "Your move": "Decide on your own schedule, not theirs"
+   }
+  },
+  {
+   "id": "referrals-and-giveaways",
+   "kind": "field-note",
+   "title": "Referral programs and giveaways",
+   "summary": "Giveaways for attending or referring turn you into a recruiter. The prize is usually small compared to the contacts gained.",
+   "body": [
+    "Events reward attendance ('join 5 sessions for a chance at a voucher') and referrals ('refer 7 friends to enter a drawing'). Read the terms: many are drawings, not guaranteed rewards, and are limited to certain countries and ages.",
+    "Every referral sends a friend's details into the host's marketing system. Only refer people who would genuinely want the event.",
+    "Giveaways that require a purchase, a fee or your bank details are a red flag. Legitimate sweepstakes in the United States state that no purchase is necessary."
+   ],
+   "tags": [
+    "referral",
+    "giveaway",
+    "sweepstakes",
+    "voucher",
+    "drawing",
+    "prize",
+    "refer a friend"
+   ],
+   "details": {
+    "Read first": "Whether it's a drawing or a guaranteed reward",
+    "Red flag": "A fee or bank details to claim a prize",
+    "Your move": "Only refer people who would want the event anyway"
+   }
+  },
+  {
+   "id": "lead-scoring-and-follow-up",
+   "kind": "field-note",
+   "title": "Lead scoring: how follow-up gets decided",
+   "summary": "Marketing software turns your clicks and attendance into a score. The score decides whether you get emails or a salesperson.",
+   "body": [
+    "Tools such as marketing automation platforms record which emails you open, which sessions you attend and how long you stay. Each action adds points. Above a threshold, your record goes to a sales rep.",
+    "Signals that raise a score: a work email, a senior title, a large company, attending pricing or product sessions, and downloading 'buyer' content. A personal email and general sessions usually keep you in the newsletter tier.",
+    "You can keep learning while staying low on the list: use a personal or alias email, skip pricing pages, and use email preferences to reduce frequency."
+   ],
+   "tags": [
+    "lead scoring",
+    "marketing automation",
+    "follow-up",
+    "sales rep",
+    "email",
+    "tracking",
+    "b2b"
+   ],
+   "details": {
+    "Raises your score": "Work email, senior title, product and pricing sessions",
+    "Keeps it low": "Personal or alias email, general sessions",
+    "Your move": "Use email preferences to cut frequency"
+   }
+  },
+  {
+   "id": "protecting-your-details",
+   "kind": "field-note",
+   "title": "Protecting your details before you register",
+   "summary": "Simple steps that let you get the information without the follow-up flood.",
+   "body": [
+    "Use an alias or secondary email address for event signups. Many email providers support plus-addressing (yourname+eventname@...), which also shows you who shared your address.",
+    "If a phone number is required, consider a separate number from a calling app instead of your main mobile. For U.S. numbers, the National Do Not Call Registry limits many telemarketing calls, though it does not cover every caller.",
+    "Under the U.S. CAN-SPAM Act, commercial emailers must include an opt-out and honor it within 10 business days. If emails continue after that, the FTC accepts reports at ReportFraud.ftc.gov."
+   ],
+   "tags": [
+    "privacy",
+    "alias email",
+    "phone",
+    "unsubscribe",
+    "do not call",
+    "can-spam",
+    "opt out"
+   ],
+   "details": {
+    "Email": "Use an alias or plus-address",
+    "Phone": "Use a secondary number if one is required",
+    "Unsubscribe rule": "U.S. senders must honor opt-outs within 10 business days"
+   },
+   "sources": [
+    {
+     "label": "FTC: CAN-SPAM Act compliance guide",
+     "url": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business"
+    },
+    {
+     "label": "National Do Not Call Registry",
+     "url": "https://www.donotcall.gov"
+    }
+   ]
+  },
+  {
+   "id": "refunds-and-guarantees",
+   "kind": "field-note",
+   "title": "Refund policies and guarantees",
+   "summary": "A strong guarantee in the headline can come with narrow conditions in the fine print. Read the version that applies to this year's event.",
+   "body": [
+    "Look for who decides whether you qualify, what you must hand back, how fast you must ask, and whether travel costs are covered. 'Satisfaction guaranteed' can mean a written request on day one of the event, in person.",
+    "Policies change between years. Some events replace refunds with a transferable ticket or a credit toward a future event. Check the current page, not an old one that search results surface.",
+    "For in-person sales at hotels and convention centers in the U.S., the FTC's Cooling-Off Rule may give you three days to cancel purchases of $130 or more."
+   ],
+   "tags": [
+    "refund",
+    "guarantee",
+    "credit",
+    "transfer",
+    "cancellation",
+    "cooling-off",
+    "fine print"
+   ],
+   "details": {
+    "Ask": "Refund, credit or transfer only?",
+    "Watch for": "Same-day written requests and non-refundable credits",
+    "In-person sales": "FTC Cooling-Off Rule may apply at $130 or more"
+   },
+   "sources": [
+    {
+     "label": "FTC: Buyer's remorse and the Cooling-Off Rule",
+     "url": "https://consumer.ftc.gov/articles/buyers-remorse-ftcs-cooling-rule-may-help"
+    }
+   ]
+  },
+  {
+   "id": "checking-a-host",
+   "kind": "field-note",
+   "title": "Checking a host's reputation in ten minutes",
+   "summary": "A quick routine to separate a pushy-but-real event from one to avoid.",
+   "body": [
+    "Search the organizer's name with words like complaints, refund, review and scam. Read past the first page of the company's own testimonials and look for independent sources: news coverage, consumer agency actions, the Better Business Bureau and long-form personal accounts.",
+    "Remember that 'not rated' is not the same as a bad rating, and a single angry post is not a pattern. Look for repeated, specific complaints about the same problem.",
+    "Check whether articles that look independent are written by people connected to the event, such as members, sponsors or speakers."
+   ],
+   "tags": [
+    "reputation",
+    "complaints",
+    "reviews",
+    "bbb",
+    "scam",
+    "research",
+    "due diligence"
+   ],
+   "details": {
+    "Search": "Name plus complaints, refund, review",
+    "Look for": "Repeated, specific complaints from independent sources",
+    "Watch out for": "Reviews written by members, sponsors or speakers"
+   }
+  },
+  {
+   "id": "case-genius-network-2026",
+   "kind": "case",
+   "title": "Real example: Genius Network Annual Event 2026",
+   "summary": "A high-ticket mastermind preview. Real speakers and a long history, with a clear price ladder and an info-kit form that asks for your phone number.",
+   "body": [
+    "Genius Network is Joe Polish's business mastermind. Its official event page lists the 2026 Annual Event for November 5 to 7 at the JW Marriott Camelback Inn in Scottsdale, Arizona, marked sold out with an 'apply to attend' process when checked on October 14, 2026.",
+    "Published bios describe the ladder: the annual event, a Genius Network membership at $25,000 a year and a 100K group at $100,000. A 2020 event page listed $10,000 to attend. A recordings product was advertised at $597 against a 'normally $4,999' price.",
+    "The current page says attendees who can't come may transfer their seat for a $100 fee or receive a non-refundable credit valid for 18 months. The site's newsletter signup states about three emails a week. No pattern of formal complaints was found; the BBB lists Joe Polish's Piranha Marketing as not rated for lack of information.",
+    "The info-kit form seen in October 2026 sat on a separate domain reached from a search ad and asked for name, email and phone. Its ownership was not independently confirmed; starting from geniusnetwork.com is the safer route."
+   ],
+   "tags": [
+    "genius network",
+    "joe polish",
+    "mastermind",
+    "scottsdale",
+    "case study",
+    "2026"
+   ],
+   "details": {
+    "Playbook": "High-ticket mastermind preview",
+    "Checked": "October 14, 2026",
+    "Price ladder": "$10,000 event (2020 listing), $25,000 yearly membership, $100,000 group",
+    "Form asks for": "Name, email, phone"
+   },
+   "sources": [
+    {
+     "label": "Genius Network: 2026 Annual Event page",
+     "url": "https://geniusnetwork.com/event/"
+    },
+    {
+     "label": "Genius Network: 2020 Annual Event page",
+     "url": "https://geniusnetwork.com/annual-event-new-2020/"
+    }
+   ]
+  },
+  {
+   "id": "case-snowflake-expedition-2026",
+   "kind": "case",
+   "title": "Real example: Snowflake Expedition 2026",
+   "summary": "A free virtual product launch from a public software company. Low pressure on stage, with gamified attendance, a referral drawing and lead-scored follow-up.",
+   "body": [
+    "Snowflake (NYSE: SNOW) announced Expedition 2026 as its flagship virtual event, streaming November 3 to 5 in the Americas and November 4 to 6 in other regions, with a Day One fireside chat between CEO Sridhar Ramaswamy and Microsoft's Satya Nadella.",
+    "Registration emails asked attendees to favorite sessions by October 16 to 'reserve a spot.' A promotion offered a chance at a Coursera voucher for attending five or more live sessions, limited to U.S. adults while supplies last.",
+    "The refer-a-friend sweepstakes required at least seven successful referrals to enter a drawing for one of 50 DataCamp vouchers worth about $300, with winner emails sent through Marketo. The registration consent text included sharing information with event partners.",
+    "Sessions are mostly Snowflake staff demonstrating Snowflake products, including one on building a lead scoring model. Expect marketing emails; a sales rep is more likely if you registered with a work email at a large company."
+   ],
+   "tags": [
+    "snowflake",
+    "expedition",
+    "virtual event",
+    "software",
+    "case study",
+    "2026",
+    "referral"
+   ],
+   "details": {
+    "Playbook": "Free enterprise product launch",
+    "Checked": "October 14, 2026",
+    "Cost": "Free",
+    "Form asks for": "Email, name, company details; consent includes event partners"
+   },
+   "sources": [
+    {
+     "label": "Snowflake: Expedition event page",
+     "url": "https://www.snowflake.com/en/expedition/"
+    }
+   ]
+  }
+ ]
+}

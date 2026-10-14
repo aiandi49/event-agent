@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en" data-theme="light" data-font-size="sm">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Event Agent guide: the sales playbooks behind event invitations</title>
+<meta name="description" content="A plain guide to the sales playbooks behind event invitations, signup forms and applications, with real examples and ways to protect your details.">
+<meta name="color-scheme" content="light dark">
+<script>(function(){try{var d=document.documentElement,t=localStorage.getItem('pref-theme'),f=localStorage.getItem('pref-font-size');if(t==='light'||t==='dark')d.setAttribute('data-theme',t);if(f==='sm'||f==='md'||f==='lg'||f==='xl')d.setAttribute('data-font-size',f);}catch(e){}})();</script>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&display=swap">
+<link rel="stylesheet" href="/assets/css/guide.css">
+<script src="/assets/js/prefs.js" defer></script>
+<script src="/assets/js/guide.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to the guide</a>
+
+<header class="nav">
+  <div class="nav-row">
+    <a class="brand" href="/" aria-label="Event Agent home">
+      <span class="brand-mark" aria-hidden="true">EA</span>
+      <span class="brand-name"><strong>Event Agent</strong><span>Invitation reader</span></span>
+    </a>
+    <nav class="nav-links" aria-label="Main">
+      <a href="/">Agent</a>
+      <a href="/guide" aria-current="page">Guide</a>
+    </nav>
+    <div class="prefs">
+      <div class="size-picker" role="group" aria-label="Text size">
+        <button type="button" class="size-btn" data-size="sm" aria-pressed="true" aria-label="Text size small">A</button>
+        <button type="button" class="size-btn" data-size="md" aria-pressed="false" aria-label="Text size medium">A</button>
+        <button type="button" class="size-btn" data-size="lg" aria-pressed="false" aria-label="Text size large">A</button>
+        <button type="button" class="size-btn" data-size="xl" aria-pressed="false" aria-label="Text size extra large">A</button>
+      </div>
+      <button type="button" class="theme-btn" aria-pressed="false" aria-label="Switch to dark theme">
+        <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero" aria-labelledby="guide-title">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <h1 id="guide-title">Every free invite has a business model.</h1>
+        <p class="lead">Masterminds, product launches, webinars, seminars and opportunity nights each follow a recognizable sales playbook. Learn the patterns, read the form, and decide what to share before anyone calls you.</p>
+        <div class="hero-actions">
+          <a class="btn" href="/">Check an invite with the agent</a>
+          <a class="btn quiet" href="#playbooks">Browse the playbooks</a>
+        </div>
+      </div>
+      <aside class="hero-aside" aria-labelledby="meter-title">
+        <h2 id="meter-title">Reading the pressure meter</h2>
+        <p>Each playbook is rated by how hard the follow-up usually pushes.</p>
+        <dl class="pressure-key">
+          <div><dt><span class="meter" data-level="Low" aria-hidden="true"><i></i><i></i><i></i></span>Low</dt><dd>Emails and a few soft asks</dd></div>
+          <div><dt><span class="meter" data-level="Medium" aria-hidden="true"><i></i><i></i><i></i></span>Medium</dt><dd>Deadlines, a pitch, maybe a call</dd></div>
+          <div><dt><span class="meter" data-level="High" aria-hidden="true"><i></i><i></i><i></i></span>High</dt><dd>Phone follow-up, closers, big prices</dd></div>
+        </dl>
+      </aside>
+    </div>
+  </section>
+
+  <section class="band" id="playbooks" aria-labelledby="playbooks-title">
+    <div class="band-head">
+      <h2 id="playbooks-title">The playbooks</h2>
+      <p>Nine patterns cover most invitations. The agent matches each event to the closest one.</p>
+    </div>
+    <div class="grid" id="grid-playbook" aria-busy="true"></div>
+  </section>
+
+  <section class="band tint" id="field-notes" aria-labelledby="notes-title">
+    <div class="band-head">
+      <h2 id="notes-title">Field notes</h2>
+      <p>The tactics that show up across playbooks, and how to answer them.</p>
+    </div>
+    <div class="grid" id="grid-field-note" aria-busy="true"></div>
+  </section>
+
+  <section class="band" id="examples" aria-labelledby="examples-title">
+    <div class="band-head">
+      <h2 id="examples-title">Real examples</h2>
+      <p>Two events checked against their own pages and public sources. Details can change, so confirm before you act.</p>
+    </div>
+    <div class="grid wide" id="grid-case" aria-busy="true"></div>
+  </section>
+
+  <p class="load-error" id="load-error" role="alert" hidden>The guide content could not load. Refresh the page to try again.</p>
+  <noscript><p class="load-error">This guide needs JavaScript to show its entries.</p></noscript>
+</main>
+
+<footer class="foot">
+  <p>Event Agent gives general information, not legal or financial advice. <span id="updated"></span></p>
+  <p><a href="/">Back to the agent</a></p>
+</footer>
+</body>
+</html>
