@@ -227,6 +227,7 @@
       b.setAttribute('data-id', m.id);
       b.setAttribute('aria-pressed', m.id === state.selectedId ? 'true' : 'false');
       var t = document.createElement('span');
+      t.className = 'match-title';
       t.textContent = m.title;
       var s = document.createElement('span');
       s.className = 'score';
