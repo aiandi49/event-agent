@@ -120,7 +120,13 @@
     "Follow-up to expect": "Calls and texts before the event to confirm you're coming, then sales follow-up if you didn't buy",
     "Before you sign up": "Leave cards at home or set a hard limit, and know the 3-day cancellation rule",
     "Example": "Real estate, trading and wealth-building seminar tours"
-   }
+   },
+   "sources": [
+    {
+     "label": "FTC: Buyer's remorse and the Cooling-Off Rule",
+     "url": "https://consumer.ftc.gov/articles/buyers-remorse-ftcs-cooling-rule-may-help"
+    }
+   ]
   },
   {
    "id": "gifted-sales-presentation",
@@ -180,7 +186,13 @@
     "Follow-up to expect": "Personal messages from the person who invited you and their 'upline'",
     "Before you sign up": "Ask for the income disclosure statement and the monthly purchase requirement in writing",
     "Example": "Product parties, 'mentor' calls and opportunity nights"
-   }
+   },
+   "sources": [
+    {
+     "label": "FTC: Multi-Level Marketing Businesses and Pyramid Schemes",
+     "url": "https://consumer.ftc.gov/articles/multi-level-marketing-businesses-and-pyramid-schemes"
+    }
+   ]
   },
   {
    "id": "paid-industry-conference",
